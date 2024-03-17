@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "modName": "ContainersExtendedTutorial",
+      "UUID": "004dc11d-5fe5-427a-a0b5-3d6c6aa27aad",
+      "folderName": "ContainersExtendedTutorial",
+      "Description": "Containers Extended Tutorial Chest Add-on",
+      "version": "1.0.0.0",
+      "MD5": ""
+    }
+  ]
+}
