@@ -1,4 +1,4 @@
 new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
-object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
+object category "I_OBJ_ContainersExtendedTutorial_Crate",1,0,0,0,0,0,0,0
