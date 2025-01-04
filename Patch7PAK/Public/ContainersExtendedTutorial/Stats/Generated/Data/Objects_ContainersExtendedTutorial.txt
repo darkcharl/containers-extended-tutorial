@@ -1,0 +1,4 @@
+new entry "OBJ_ContainersExtendedTutorial_Crate"
+type "Object"
+using "OBJ_Crate"
+data "RootTemplate" "9c814830-b0f4-450d-ad1f-d468aa62112e"
