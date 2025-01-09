@@ -17,7 +17,7 @@
 						<node id="InventoryList">
 							<children>
 								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="ContainersExtended_Full" />
+									<attribute id="Object" type="FixedString" value="ContainersExtended_Crate" />
 								</node>
 							</children>
 						</node>

@@ -2,3 +2,7 @@ new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_ContainersExtendedTutorial_Crate",1,0,0,0,0,0,0,0
+
+new treasuretable "ContainersExtended_Crate"
+new subtable "1,1"
+object category "T_ContainersExtended_PlayerContainers",1,0,0,0,0,0,0,0
